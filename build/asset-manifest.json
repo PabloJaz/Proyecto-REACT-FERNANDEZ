@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/coderhouse-react/static/css/main.eb027758.css",
+    "main.js": "/coderhouse-react/static/js/main.6968fe3d.js",
+    "static/js/787.c285b863.chunk.js": "/coderhouse-react/static/js/787.c285b863.chunk.js",
+    "static/media/mousees.png": "/coderhouse-react/static/media/mousees.d18662c37a62dedd32f8.png",
+    "static/media/promo2.webp": "/coderhouse-react/static/media/promo2.8a99e4bf1cfa0595dbd4.webp",
+    "static/media/promo3.webp": "/coderhouse-react/static/media/promo3.5624b70e91a464432c99.webp",
+    "index.html": "/coderhouse-react/index.html",
+    "main.eb027758.css.map": "/coderhouse-react/static/css/main.eb027758.css.map",
+    "main.6968fe3d.js.map": "/coderhouse-react/static/js/main.6968fe3d.js.map",
+    "787.c285b863.chunk.js.map": "/coderhouse-react/static/js/787.c285b863.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb027758.css",
+    "static/js/main.6968fe3d.js"
+  ]
+}
